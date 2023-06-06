@@ -1,0 +1,30 @@
+nav {
+  padding-top: 20px;
+  display: flex;
+  /* justify-content: space-around; */
+  align-items: center;
+}
+
+img {
+  margin-left: 50px;
+  width: 300px;
+}
+
+form {
+  margin-left: 250px;
+}
+
+input {
+  padding: 10px 180px 10px 10px;
+  background-color: white;
+  color: #1daa81;
+  font-size: 20px;
+  /* border: #1daa81; */
+}
+button {
+  padding: 10px 30px;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: red;
+  color: white;
+}
